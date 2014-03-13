@@ -4,8 +4,6 @@ python:
 script: make tests
 notifications:
   email:
-    recipients:
       - vidyac.raghav@gmail.com
       - vidya_test1@yahoo.in
-    on_success: always
-    on_failure: change
+    
