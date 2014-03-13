@@ -6,6 +6,6 @@ notifications:
   email:
     recipients:
       - vidyac.raghav@gmail.com
-      - vidya_test1@gmail.com
+      - vidya_test1@yahoo.in
     on_success: change
     on_failure: always
